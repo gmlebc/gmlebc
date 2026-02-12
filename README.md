@@ -1,6 +1,4 @@
-## https://gmlebc.github.io/
-
-## Hi there 👋
+## https://gmlebc.github.io/            Hi there 👋
 
 <!--
 **gmlebc/gmlebc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
